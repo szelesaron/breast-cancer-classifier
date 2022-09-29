@@ -4,4 +4,4 @@ We are using [this](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wiscon
 
 ### Files
 1. A single [Perceptron](https://github.com/szelesaron/breast-cancer-classifier/blob/main/perceptron.ipynb). 
-2. A single Perceptron in Object Oriented Programming. 
+2. A single [Perceptron](https://github.com/szelesaron/breast-cancer-classifier/blob/main/perceptron_oop.ipynb) in Object Oriented Programming. 
